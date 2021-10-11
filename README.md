@@ -12,3 +12,7 @@
 - OCR-based Inventory Management Algorithms Robust to Damaged Images [ICRA2021](-)
 - Sequential Feature Filtering Classifier [IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9459741)
 - Head Pose-free Gaze Estimation Using Domain Adaptation [ITE ELECTRONICS LETTERS 2021](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12247)
+
+----
+
+NeurIPS 2021 Visual Domain Adaptation (VisDA-21) UniDA Challenge (10/138, 상위 7%)
