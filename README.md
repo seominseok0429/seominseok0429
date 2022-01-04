@@ -11,8 +11,8 @@
 - OCR-based Inventory Management Algorithms Robust to Damaged Images [ICRA2021](-) (1저자)
 - Sequential Feature Filtering Classifier [IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9459741) (1 저자)
 ----
-- Exploiting Features with Split-and-Share Module [MDPI MDPI electronics 2022](-) (1 저자)
-- Multi-Task Learning with Task-Specific Feature Filtering in Low-Data Condition [MDPI MDPI electronics 2022](-) (2 저자)
+- Exploiting Features with Split-and-Share Module [MDPI electronics 2022](-) (1 저자)
+- Multi-Task Learning with Task-Specific Feature Filtering in Low-Data Condition [MDPI electronics 2022](-) (2 저자)
 - Head Pose-free Gaze Estimation Using Domain Adaptation [ITE ELECTRONICS LETTERS 2021](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12247) (2저자)
 
 ----
