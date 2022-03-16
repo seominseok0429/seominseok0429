@@ -19,3 +19,6 @@
 ----
 ### 대회
 NeurIPS 2021 Visual Domain Adaptation (VisDA-21) UniDA Challenge (10/138, 상위 7%)
+
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=seominseok0429&show_icons=true&include_all_commits=true/> </p>
