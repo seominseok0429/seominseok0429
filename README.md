@@ -6,19 +6,13 @@
 
 ----
 저의 대표 연구는 아래와 같습니다.
+
 - A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance Systems [RAL with ICRA2022](-) (1저자)
 - OCR-based Inventory Management Algorithms Robust to Damaged Images [ICRA2021](-) (1저자)
 - Sequential Feature Filtering Classifier [IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9459741) (1 저자)
-----
-- Exploiting Features with Split-and-Share Module [MDPI electronics 2022](-) (1 저자)
-- Multi-Task Learning with Task-Specific Feature Filtering in Low-Data Condition [MDPI electronics 2022](-) (2 저자)
-- Head Pose-free Gaze Estimation Using Domain Adaptation [ITE ELECTRONICS LETTERS 2021](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12247) (2저자)
 ----
 - Using Self-Supervised Pretext Tasks for Active Learning [CVPR 2022 Under review](-) (1 저자)
 - Source Domain Subset Sampling for Semi-Supervised Domain Adaptation in Semantic Segmentation [CVIU 2022 Under review](-) (1저자)
 ----
 ### 대회
 NeurIPS 2021 Visual Domain Adaptation (VisDA-21) UniDA Challenge (10/138, 상위 7%)
-
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=seominseok0429&show_icons=true&include_all_commits=true/> </p>
