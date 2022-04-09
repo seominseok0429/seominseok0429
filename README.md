@@ -15,4 +15,5 @@
 - Source Domain Subset Sampling for Semi-Supervised Domain Adaptation in Semantic Segmentation [CVIU 2022 Under review](-) (1저자)
 ----
 ### 대회
+CVPR 2022 Aerial Object Tracking (Winner)
 NeurIPS 2021 Visual Domain Adaptation (VisDA-21) UniDA Challenge (10/138, 상위 7%)
